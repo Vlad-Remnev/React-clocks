@@ -1,5 +1,6 @@
 {
   "name": "clocks",
+  "homepage": "https://Vlad-Remnev.github.io/React-clocks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
